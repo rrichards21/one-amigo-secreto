@@ -92,10 +92,6 @@ El JavaScript espera que existan los siguientes elementos en el HTML:
 <div id="resultado"></div>
 ```
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
 ## 👨‍💻 Autor
 
 Rodrigo Richards - [@rrichards21](https://github.com/rrichards21)
